@@ -1,14 +1,11 @@
-# Notes
-These are lecture notes...
+# Lecture 1
+These are lecture notes from May 6th...
 
 ### Table Of Contents
-1. [Lecture 1](#lecture-1---may-6th)
-   1. [Is Computer Science a Science](#is-computer-science-a-science)
-   2. [Definition of a Sceince](#definition-of-a-sceince)
-   3. [Can We Define Technology](#can-we-define-technology)
-   4. [Social Construction of Technology](#social-construction-of-technology)
-
-## Lecture 1 - May 6th
+1. [Is Computer Science a Science](#is-computer-science-a-science)
+2. [Definition of a Sceince](#definition-of-a-sceince)
+3. [Can We Define Technology](#can-we-define-technology)
+4. [Social Construction of Technology](#social-construction-of-technology)
 
 ###### Is Computer Science a Science?
 Args from reading:
