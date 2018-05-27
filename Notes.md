@@ -2,7 +2,11 @@
 These are lecture notes...
 
 ### Table Of Contents
-1. Lecture 1
+1. [Lecture 1](#lecture-1---may-6th)
+   1. [Is Computer Science a Science](#is-computer-science-a-science)
+   2. [Definition of a Sceince](#definition-of-a-sceince)
+   3. [Can We Define Technology](#can-we-define-technology)
+   4. [Social Construction of Technology](#social-construction-of-technology)
 
 ## Lecture 1 - May 6th
 
@@ -14,10 +18,10 @@ Args from reading:
 
 ###### Definition of a Sceince
 > Study of laws of natures 
-* Perform Experiments: i.e. the Scientific Method by Francis Bacon
-
+> * Perform Experiments: i.e. the Scientific Method by Francis Bacon
+>
 > Would Comp Sci be better suited under the same umbrella as { Math, Engeering, Art }
-* Because it is applient on man made constructs
+> * Because it is applient on man made constructs
 
 Profs Args for this being a science, the `metaphysical status` of information: we give **value** to things
 
