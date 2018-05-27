@@ -3,6 +3,7 @@ These are lecture notes from May 9th...
 
 ###### Table Of Contents
 1. [Do Artifacts Have Politics?](#Do-Artifacts-Have-Politics)
+2. [Whale and reactor](#whale-and-reactor)
 
 #### Do Artifacts Have Politics?
 By politics the autor means "forms of governing"
