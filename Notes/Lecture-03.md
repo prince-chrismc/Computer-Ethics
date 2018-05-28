@@ -2,7 +2,11 @@
 These are lecture notes from May 14th...
 
 ###### Table Of Contents
-1. [What is Computer Ethics?](#)
+1. [What is Computer Ethics?](#what-is-computer-ethics)
+2. [Theories of morality](#theories-of-morality)
+   1. [Utilitrainism](#Utilitrainism)
+   2. [Deontology](#Deontology)
+   3. [Social Contract](#Social-Contract)
 
 #### What is Computer Ethics?
 > What about computers was revolutionary for Ethics?

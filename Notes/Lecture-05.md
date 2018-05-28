@@ -2,7 +2,8 @@
 These are lecture notes from May 16th...
 
 ###### Table Of Contents
-1. [History of Feminism](#)
+1. [History of Feminism](#history-of-feminism)
+1. [Gender In Computer Science](#gender-in-computer-science)
 
 #### History of Feminism
 1. First Wave
