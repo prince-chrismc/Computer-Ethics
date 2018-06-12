@@ -3,6 +3,8 @@ These are lecture notes from May 30th...
 
 ###### Table Of Contents
 1. [Technilogical Singularity]()
+   1. [Post-Human Future]()
+1. [Displacement of Jobs by Technology]()
 
 #### Technilogical Singularity
 Singularity comes from physics...
