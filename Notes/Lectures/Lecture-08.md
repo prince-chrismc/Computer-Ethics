@@ -25,4 +25,26 @@ Acccording to AI specialist, Inteligence is prevention of preprogramming --> the
 Most liekly future is IA ( inteligence amplification ) having a black box which we dont need to understand the complexity which gives us access to a wealth of instant knowldge which can be grown. How much more pesabile than AI ? 
 
 #### Displacement of Jobs by Technology
+Unemployment during the Great Depression ~25%. Future techonologies will create massive unemployment; leaders in Silicon Valley trying to build preventative measures.
 
+Historical Analysis:
+1. First Industrial Revolution:
+   - New technologies allowing for the mechanization of work increased production at far more efficient rates.
+   - Producing a greater surplus while decreasing the demand for employees.
+   - employees === consumers ... leaving no consumers to buy surplus
+   - Marx's social revolution didnt happen. capitalism adapted by creating new industries which sparked new jobs.
+2. Computer Revolution
+   - introduction of computers in the workplace --> new industries
+3. AI Revolution ( pending )
+   - potential for ~45% _unemployable_ far greater scale
+   - radically different from previous revolutions... humans will no longer be required.
+   - general purpose robots
+   - autonomos robots replacing transportation industry (70m jobs)
+   - ["humans need not apply"](https://www.youtube.com/watch?v=7Pq-S557XQU)
+
+Universal Basic Income:
+* Every human is garanteed a basic income sufficient to survive
+* what if everyone stops working? // post AI revolution they wont even be able to!
+* cutting social benifits like welfare
+* bring everyone above the porverty line
+* to perserve _capitalism_
