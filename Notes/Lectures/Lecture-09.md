@@ -3,7 +3,8 @@
 These are lecture notes from June 4th...
 
 ###### Table Of Contents
-1. [Science and its Publics]()
+1. [Science and its Publics](#Science-and-its-Publics)
+   1. [Crisis of Legitamacy](#Crisis-of-Legitamacy)
 
 #### Science and its Publics
 Misunderstanding the mistrust... legitamite none technical critiques get lost in noise of ignorant wales.
@@ -61,6 +62,19 @@ science is the foundation of our economic growth model, without trust there's a 
    - Have scientists and engineers do first hand research on new tech
    - determine valuated results from new tech
    - include stake holders testamony in the report // problem who are stake holders?
+4. Public Tech Assesment
+   - Direct democratic engagement of the pulic in policy making regarding sciences and technology
+   - Consensus Commitees ( works like a trial where experts and vitnesses testify regarding the nature of the new tech and the effects of laws )
+5. Co-constructive Paradigm
+   - Its usually too late // other methods are after the face
+   - should include representatives of the public into the research and design
+   - Example: Marketing focus groups 
 
+**Overall direction towards more democratic inclusivity into the process of creating new technologies**
 
+> Will ignorant public stiffle innovation if public is too involved?
 
+Counter argument to this claim is *Perspectivism*
+--> human knowledge is limit to ones perspective, thus the more POVs the strong the objectivity regarding the subject becomes
+
+Everything leads to the Democratization of technology // Relates back to [first lecture](https://github.com/prince-chrismc/Computer-Ethics/blob/master/Notes/Lectures/Lecture-01.md#does-technology-mean-progress) to answer does tech mean progress
